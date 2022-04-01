@@ -1,0 +1,6 @@
+numpy==1.19.4
+opencv-contrib-python==4.5.2.52
+opencv-python==4.4.0.46
+opencv-python-headless==4.5.1.48
+tensorflow==2.6.0
+tensorflow-estimator==2.6.0
